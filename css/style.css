@@ -385,8 +385,8 @@ body.offcanvas {
 .colorlib-about,
 .colorlib-services,
 .colorlib-contact {
-  padding-top: 2em;
-  padding-bottom: 2em;
+  padding-top: 1em;
+  padding-bottom: 1em;
   clear: both;
   width: 100%;
   display: block; }
@@ -425,7 +425,7 @@ body.offcanvas {
 .heading-meta {
   margin-bottom: 15px;
   display: block;
-  font-size: 10px;
+  font-size: 12px;
   text-transform: uppercase;
   color: #999999;
   font-weight: 500;
@@ -650,6 +650,7 @@ body.offcanvas {
     .services.color-4 .icon2 i {
       color: #a84cb8; }
   .services.color-5 {
+    min-height: 366px;
     border-bottom: 2px solid #2fa499; }
   .services.color-6 {
     border-bottom: 2px solid #4054b2; }
